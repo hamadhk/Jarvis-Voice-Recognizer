@@ -1,0 +1,26 @@
+# Environment files
+.env
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+
+# Logs
+*.log
+
+# Database
+*.sqlite3
+
+# IDE files
+.vscode/
+.idea/
+
+# macOS and Windows system files
+.DS_Store
+Thumbs.db
+
+.venv
